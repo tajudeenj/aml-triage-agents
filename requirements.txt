@@ -1,0 +1,7 @@
+python-dotenv
+semantic-kernel>=1.45
+autogen-agentchat>=0.7
+autogen-ext[openai,azure]>=0.7
+agent-framework-core>=1.23
+agent-framework-openai
+agent-framework-orchestrations
